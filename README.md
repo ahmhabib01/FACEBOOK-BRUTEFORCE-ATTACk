@@ -19,37 +19,37 @@ hack gacebook ids by targeted 🐣
 ▶️ Use Commands in termux ▶️
 
 ```bash
-  pkg install git
+pkg install git
 ```
 ```bash
-  pkg install python
+pkg install python
 ```
 ```bash
-  git clone https://github.com/ahmhabib01/FACEBOOK-BRUTEFORCE-ATTACk
+git clone https://github.com/ahmhabib01/FACEBOOK-BRUTEFORCE-ATTACk
 ```
 ```bash
-  cd FACEBOOK-BRUTEFORCE-ATTACk
+cd FACEBOOK-BRUTEFORCE-ATTACk
 ```
 ```bash
-  python bdcfbhack.py
+python bdcfbhack.py
 ```
     
 ## 📝𝙋𝙖𝙨𝙨𝙬𝙤𝙧𝙙 𝙇𝙞𝙨𝙩 𝙁𝙞𝙡𝙚𝙣𝙖𝙢𝙚📝
 
 ```bash
-  password.txt
+password.txt
 ```
 ```bash
-  bd password.txt
+bd password.txt
 ```
 ```bash
-  PAssword1.txt
+PAssword1.txt
 ```
 ```bash
-  Password2.txt
+Password2.txt
 ```
 ```bash
-  password3.txt
+password3.txt
 ```
 
 ## ⚠️𝐖𝐀𝐑𝐍𝐈𝐍𝐆!⚠️
