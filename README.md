@@ -34,6 +34,24 @@ hack gacebook ids by targeted 🐣
   python bdcfbhack.py
 ```
     
+## 📝𝙋𝙖𝙨𝙨𝙬𝙤𝙧𝙙 𝙇𝙞𝙨𝙩 𝙁𝙞𝙡𝙚𝙣𝙖𝙢𝙚📝
+
+```bash
+  password.txt
+```
+```bash
+  bd password.txt
+```
+```bash
+  PAssword1.txt
+```
+```bash
+  Password2.txt
+```
+```bash
+  password3.txt
+```
+
 ## ⚠️𝐖𝐀𝐑𝐍𝐈𝐍𝐆!⚠️
 
 
