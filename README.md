@@ -52,45 +52,6 @@ Password2.txt
 password3.txt
 ```
 
-# FB-Random-Old-
-Hey,  This is facebook id cloner tool. Its clone old ids randomly.  And It's look loke you hacked someone's facebook ids. 
-
-
-<img src="https://github.com/ahmhabib01/FB-Random-Old-/blob/main/README/IMG_20240815_202209.jpg"></img><br>
-
-
-## 🛠️𝐓𝐎𝐎𝐋𝐒 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒🛠️
-
-- 🔰Can Clone unlimited ids🔰
-- 🔰Clone 2014-2010 old ids 🔰
-- 🔰Randomly Clone ids🔰
-- 🔰easy to use🔰
-
-
-
-## ⚙️𝙄𝙉𝙎𝙏𝘼𝙇𝙇𝘼𝙏𝙄𝙊𝙉⚙️
-
-
-▶️ Use Commands in termux ▶️
-
-```bash
-pkg install git
-```
-```bash
-pkg install python
-```
-```bash
-pip install requests
-```
-```bash
-git clone https://github.com/ahmhabib01/FB-Random-Old
-```
-```bash
-cd FB-Random-Old
-```
-```bash
-python old.py
-```
 
 ## ⚠️𝐖𝐀𝐑𝐍𝐈𝐍𝐆!⚠️
 
